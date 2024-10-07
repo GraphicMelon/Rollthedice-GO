@@ -1,0 +1,7 @@
+One-Digit Numbers,Sum of Digits,Sum Mod 8,(8 - x) Mod 8
+1,1,1,7
+2,2,2,6
+3,3,3,5
+4,4,4,4
+5,5,5,3
+6,6,6,2
